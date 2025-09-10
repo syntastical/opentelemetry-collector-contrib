@@ -192,6 +192,7 @@ processor/schemaprocessor processor/schema
 processor/spanprocessor processor/span
 processor/sumologicprocessor processor/sumologic
 processor/tailsamplingprocessor processor/tailsampling
+processor/throttlingprocessor processor/throttling
 processor/transformprocessor processor/transform
 receiver/activedirectorydsreceiver receiver/activedirectoryds
 receiver/aerospikereceiver receiver/aerospike

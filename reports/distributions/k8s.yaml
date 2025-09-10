@@ -39,6 +39,7 @@ components:
         - groupbytrace
         - interval
         - k8sattributes
+        - log_throttle
         - logdedup
         - metricstransform
         - probabilistic_sampler

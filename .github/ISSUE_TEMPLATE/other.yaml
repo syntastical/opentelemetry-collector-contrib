@@ -209,6 +209,7 @@ body:
       - processor/span
       - processor/sumologic
       - processor/tailsampling
+      - processor/throttling
       - processor/transform
       - receiver/activedirectoryds
       - receiver/aerospike
